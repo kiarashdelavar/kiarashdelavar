@@ -31,7 +31,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
-- ⚡ Fun fact **A boy who is always looking for learning, from programming to other things!**
+- ⚡ Fun fact **about me : I am a boy who who is always looking for learning, from programming to other things!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
