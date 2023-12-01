@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
 
-- 👨‍💻 All of my projects are available at [https://www.freecodecamp.org/kiarashdelavar](https://www.freecodecamp.org/kiarashdelavar)
+- 👨‍💻 All of my projects are available at [https://www.freecodecamp.org/kiarashdelavar](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
 - 💬 Ask me about **Python,C++,C,Machine Learning,AI.**
 
