@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm KiarashDelavar</h1>
+<h1 align="center">Hi 👋, I'm Kiarash Delavar</h1>
 
 <h3 align="center">Junior Back-End Developer from Iran . 
   Interested in learning new and serious technologies. 
