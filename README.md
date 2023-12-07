@@ -7,7 +7,7 @@
 <h3 align="center">Junior Back-End Developer from Iran .
   Interested in learning new and serious technologies. 
   
-  I have experience working with Python, C++, Django, Machine Learning, AI,etc. 
+  I have experience working with Python, C++, Arduino, Machine Learning, AI,etc. 
   
   I enjoy learning new technologies and solving challenging problems. 
   
