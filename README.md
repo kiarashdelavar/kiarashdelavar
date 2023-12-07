@@ -11,7 +11,10 @@
   
   I enjoy learning new technologies and solving challenging problems. 
   
-  I’m currently looking for opportunities to collaborate with other developers and contribute to open source projects. 
+  I’m currently looking for opportunities to collaborate with other developers and contribute to open source projects.
+
+  I am a firm believer in the power of collaboration and enjoy working within diverse teams to achieve project objectives. I am always open to new opportunities and challenges that will 
+  stimulate my professional growth in these areas. 
   
   You can check out some of my work on my [https://www.linkedin.com/in/kiarash-delavar-b1a542289/]. 
   
