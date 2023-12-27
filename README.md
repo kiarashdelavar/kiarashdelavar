@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **CS50's Introduction to Artificial Intelligence with Python,Deep Learning,Machine Learning,AI.**
 
-- 👯 I’m looking to collaborate on [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
+- 👯 I’m looking to collaborate on [Visualize Data with a Scatterplot Graph](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
