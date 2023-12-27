@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
 
-- 🔭 I’m currently working on [Sea Level Predictor](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
+- 🔭 I’m currently working on [Visualize Data with a Heat Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
 
 - 🌱 I’m currently learning **CS50's Introduction to Artificial Intelligence with Python,Deep Learning,Machine Learning,AI.**
 
