@@ -13,8 +13,7 @@
   
   I’m currently looking for opportunities to collaborate with other developers and contribute to open source projects.
 
-  I am a firm believer in the power of collaboration and enjoy working within diverse teams to achieve project objectives. I am always open to new opportunities and challenges that will 
-  stimulate my professional growth in these areas. 
+I think teamwork is really important, and I like working with different people to finish projects. I'm always up for new challenges that help me grow in my career, especially when it comes to teamwork.
   
   You can check out some of my work on my [https://www.linkedin.com/in/kiarash-delavar-b1a542289/]. 
   
