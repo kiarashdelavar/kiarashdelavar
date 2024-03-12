@@ -15,8 +15,6 @@
 
 I think teamwork is really important, and I like working with different people to finish projects. I'm always up for new challenges that help me grow in my career, especially when it comes to teamwork.
   
-  You can check out some of my work on my [https://www.linkedin.com/in/kiarash-delavar-b1a542289/]. 
-  
   Feel free to contact me if you have any questions or suggestions. 
   
   Thank you for visiting my bio!😊</h3>
