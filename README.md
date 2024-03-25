@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kiarash Delavar</h1>
 
-<h3 align="center">A little Data Scientist from Iran.  
+<h3 align="center">  
   Interested in learning new and serious technologies.
   
   I have experience working with Python, C++, Arduino, Machine Learning, AI,etc. 
