@@ -7,7 +7,7 @@
 <h3 align="center">  
   Interested in learning new and serious technologies.
   
-  I have experience working with Python, C++, Arduino, Machine Learning, AI,etc. 
+  I have experience working with Python, C++, Arduino, Machine Learning and AI. 
   
   I enjoy learning new technologies and solving challenging problems. 
   
