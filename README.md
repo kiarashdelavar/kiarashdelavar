@@ -23,7 +23,7 @@ I think teamwork is really important, and I like working with different people t
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiarashdelavar&label=Profile%20views&color=0e75b6&style=flat" alt="kiarashdelavar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiarashdelavar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on [Visualize Data with a Heat Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
 
 - 🌱 I’m currently learning **CS50's Introduction to Artificial Intelligence with Python,Deep Learning,Machine Learning,AI.**
