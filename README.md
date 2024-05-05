@@ -28,7 +28,7 @@ I think teamwork is really important, and I like working with different people t
 
 - 📫 How to reach me **kiarash.delavar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
+- 📄 Know about my experiences [www.linkedin.com/in/kiarash-delavar](www.linkedin.com/in/kiarash-delavar)
 
 
 <h3 align="left">Connect with me:</h3>
