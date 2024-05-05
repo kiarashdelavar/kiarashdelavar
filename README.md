@@ -26,8 +26,6 @@ I think teamwork is really important, and I like working with different people t
 
 - 🔭 I’m currently working on [Visualize Data with a Heat Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
 
-- 🌱 I’m currently learning **CS50's Introduction to Artificial Intelligence with Python,Deep Learning,Machine Learning,AI.**
-
 - 👯 I’m looking to collaborate on [Visualize Data with a Scatterplot Graph](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
