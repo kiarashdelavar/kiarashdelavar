@@ -32,8 +32,6 @@ I think teamwork is really important, and I like working with different people t
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
-- 💬 Ask me about **Python,C++,C.**
-
 - 📫 How to reach me **kiarash.delavar@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
