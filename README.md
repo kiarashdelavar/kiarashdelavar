@@ -20,7 +20,6 @@ I think teamwork is really important, and I like working with different people t
   Thank you for visiting my bio!😊</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiarashdelavar&label=Profile%20views&color=0e75b6&style=flat" alt="kiarashdelavar" /> </p>
 <p [![trophy](https://github-profile-trophy.vercel.app/?username=kiarashdelavar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
 
