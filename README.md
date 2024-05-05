@@ -34,7 +34,6 @@ I think teamwork is really important, and I like working with different people t
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
-- ⚡ Fun fact **about me : I'm a boy who   is always looking for learning, from programming to other things!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
