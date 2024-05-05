@@ -24,10 +24,6 @@ I think teamwork is really important, and I like working with different people t
 <p [![trophy](https://github-profile-trophy.vercel.app/?username=kiarashdelavar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
 
-- 🔭 I’m currently working on [Visualize Data with a Heat Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
-
-- 👯 I’m looking to collaborate on [Visualize Data with a Scatterplot Graph](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph)
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
 - 📫 How to reach me **kiarash.delavar@gmail.com**
