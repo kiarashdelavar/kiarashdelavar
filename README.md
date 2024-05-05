@@ -24,7 +24,7 @@ I think teamwork is really important, and I like working with different people t
 <p [![trophy](https://github-profile-trophy.vercel.app/?username=kiarashdelavar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/kiarash-delavar-b1a542289/](https://github.com/kiarashdelavar?tab=repositories)](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
+- 👨‍💻 All of my projects are available at [](https://github.com/kiarashdelavar?tab=repositories)]
 
 - 📫 How to reach me **kiarash.delavar@gmail.com**
 
