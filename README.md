@@ -23,11 +23,11 @@ I think teamwork is essential and I like working with different people to finish
 <p [![trophy](https://github-profile-trophy.vercel.app/?username=kiarashdelavar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kiarashdelavar?tab=repositories](https://github.com/kiarashdelavar?tab=repositories)]
+- 👨‍💻 All of my projects are available at: [https://github.com/kiarashdelavar?tab=repositories](https://github.com/kiarashdelavar?tab=repositories)]
 
-- 📫 How to reach me **kiarash.delavar@gmail.com**
+- 📫 How to reach me: **kiarash.delavar@gmail.com**
 
-- 📄 Get to know me more [(https://www.linkedin.com/in/kiarash-delavar-b1a542289/)](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
+- 📄 Get to know me more: [(https://www.linkedin.com/in/kiarash-delavar-b1a542289/)](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
 
 
 <h3 align="left">Connect with me:</h3>
