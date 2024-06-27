@@ -7,13 +7,13 @@
 <h3 align="center">  
   Interested in learning new and serious technologies.
   
-  I have experience working with Python, C++, Arduino, Machine Learning. 
+  I have experience working with Python, C++ and Arduino.
   
   I enjoy learning new technologies and solving challenging problems. 
   
-  I’m currently looking for opportunities to collaborate with other developers and contribute to open source projects.
+  I’m seeking opportunities to collaborate with other developers and contribute to open-source projects.
 
-I think teamwork is really important, and I like working with different people to finish projects. I'm always up for new challenges that help me grow in my career, especially when it comes to teamwork.
+I think teamwork is essential, and I like working with different people to finish projects. I'm always up for new challenges that help me grow in my career, especially when it comes to teamwork.
   
   Feel free to contact me if you have any questions or suggestions. 
   
