@@ -36,7 +36,7 @@ I think teamwork is essential and I like working with different people to finish
 <a href="https://stackoverflow.com/users/22886377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22886377" height="30" width="40" /></a>
 <a href="https://instagram.com/kiarashdelavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiarashdelavar" height="30" width="40" /></a>
 <a href="https://medium.com/@kiarash.delavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kiarash.delavar" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/kiarash delavar](https://www.youtube.com/channel/UCNGSvEJ4teRmdbiSp2jxxdA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiarash delavar" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/kiarash delavar]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiarash delavar" height="30" width="40" /></a>
 </p>
 
               
