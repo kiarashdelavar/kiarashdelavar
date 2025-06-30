@@ -7,7 +7,7 @@
 <h3 align="center">  
   Interested in learning new and serious technologies.
   
-  I have experience working with Java, Python, C, C++ and Arduino.
+  I have experience working with Java, Javascript, Python, C, C++ and Arduino.
   
   I enjoy learning new technologies and solving challenging problems. 
   
