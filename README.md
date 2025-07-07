@@ -7,7 +7,7 @@
 <h3 align="center">  
   Interested in learning new and serious technologies.
   
-  I have experience working with Java, Javascript.
+  I have experience working with Java, Javascript, HTML, CSS, Java FX.
   
   I enjoy learning new technologies and solving challenging problems. 
   
