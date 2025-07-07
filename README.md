@@ -5,17 +5,17 @@
 <h1 align="center">Hi 👋, I'm Kiarash Delavar</h1>
 
 <h3 align="center">  
-  Interested in learning new and serious technologies.
-  
-  I have experience working with Java, Javascript, HTML, CSS, Java FX.
-  
-  I enjoy learning new technologies and solving challenging problems. 
-  
-  I’m seeking opportunities to collaborate with other developers and contribute to open-source projects.
+  I’m interested in learning new and advanced technologies.
 
-I think teamwork is essential and I like working with different people to finish projects. I'm always up for new challenges that help me grow in my career, especially when it comes to teamwork.
-  
-  Feel free to contact me if you have any questions or suggestions. 
+  I have experience with Java, JavaScript, HTML, CSS, and JavaFX.
+
+  I enjoy learning, solving problems, and taking on challenges.
+
+  I’m looking for opportunities to work with other developers and contribute to open-source projects.
+
+  I believe teamwork is very important, and I like working with different people to complete projects. I’m always ready for new challenges that help me grow, especially when working as a team.
+
+  Feel free to contact me if you have any questions or ideas!
   
   Thank you for visiting my bio!😊</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
