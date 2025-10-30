@@ -54,6 +54,9 @@
   <a href="https://stackoverflow.com/users/22886377" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="40"/>
   </a>
+  <a href="https://gitlab.com/kiarash.delavar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="40"/>
+  </a>
 </p>
 
 ---
