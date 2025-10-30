@@ -1,49 +1,72 @@
-![Header](https://imgur.com/JGEmfZE.gif)
-              
-              
-
 <h1 align="center">Hi 👋, I'm Kiarash Delavar</h1>
+<h3 align="center">💻 Software Engineering Student | 🌍 Based in the Netherlands | 🚀 Passionate About Software & Java Development</h3>
 
-<h3 align="center">  
-  I’m interested in learning new and advanced technologies.
+---
 
-  I have experience with Java, JavaScript, HTML, CSS, and JavaFX.
-
-  I enjoy learning, solving problems, and taking on challenges.
-
-  I’m looking for opportunities to work with other developers and contribute to open-source projects.
-
-  I believe teamwork is very important, and I like working with different people to complete projects. I’m always ready for new challenges that help me grow, especially when working as a team.
-
-  Feel free to contact me if you have any questions or ideas!
-  
-  Thank you for visiting my bio!😊</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
-<p [![trophy](https://github-profile-trophy.vercel.app/?username=kiarashdelavar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar" alt="kiarashdelavar" /></a> </p>
-
-- 👨‍💻 All of my projects are available at: [https://github.com/kiarashdelavar?tab=repositories](https://github.com/kiarashdelavar?tab=repositories)]
-
-- 📫 How to reach me: **kiarash.delavar@gmail.com**
-
-- 📄 Get to know me more: [(https://www.linkedin.com/in/kiarash-delavar-b1a542289/)](https://www.linkedin.com/in/kiarash-delavar-b1a542289/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kiarash-delavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiarash-delavar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22886377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22886377" height="30" width="40" /></a>
-<a href="https://instagram.com/kiarashdelavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiarashdelavar" height="30" width="40" /></a>
-<a href="https://medium.com/@kiarash.delavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kiarash.delavar" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@kiarashdelavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiarash delavar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://imgur.com/JGEmfZE.gif" alt="Profile Header" width="800"/>
 </p>
 
-              
+---
 
+### 👨‍💻 About Me
+- 🎓 ICT & Software Engineering student at **Saxion University of Applied Sciences**  
+- 🔭 Currently working on: **Kiarash Cinema – Movie Reservation System (Svelte, Node.js, Sequelize, SSE)**  
+- 🌱 Learning more about **Full-Stack Development, SWE, Distributed Systems, and AI**  
+- 🤝 I’m open to collaborating on **open-source projects & internships**  
+- 💬 Ask me about: **Java, JavaScript, Svelte, Node.js, Express, REST APIs**  
+- 📫 Reach me: **[kiarash.delavar@gmail.com](mailto:kiarash.delavar@gmail.com)**  
+- ⚡ Fun fact: I enjoy problem-solving, teamwork, and coffee-powered late night coding 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashdelavar&show_icons=true&locale=en&layout=compact" alt="kiarashdelavar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarashdelavar&show_icons=true&locale=en" alt="kiarashdelavar" /></p>
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,html,css,postgres,git,github,linux,vscode,svelte,react,python&theme=dark" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiarashdelavar&" alt="kiarashdelavar" /></p>
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiarashdelavar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiarashdelavar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashdelavar&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiarashdelavar&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiarash-delavar-b1a542289/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22886377" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40"/>
+  </a>
+</p>
+
+---
+
+### 💬 Quote I Live By
+> “If we have to fight, we fight. If we have to run, we’ll run.  
+> If we must die, we’ll die, but... we’ll stay free.”  
+> — *Javier Escuella*
+
+---
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400" alt="Coding GIF">
+</p>
+
+<p align="center">⭐ Thank you for visiting my profile! ⭐</p>
