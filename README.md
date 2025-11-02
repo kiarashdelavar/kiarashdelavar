@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🎓 ICT & Software Engineering student at **Saxion University of Applied Sciences**  
 - 🔭 Currently working on: **Kiarash Cinema – Movie Reservation System (Svelte, Node.js, Sequelize, SSE)**  
-- 🌱 Learning more about **Full-Stack Development, SWE, Distributed Systems, and AI**  
+- 🌱 Learning more about **Full-Stack Development, Software engineering, Distributed Systems, and AI**  
 - 🤝 I’m open to collaborating on **open-source projects & internships**  
 - 💬 Ask me about: **Java, JavaScript, Svelte, Node.js, Express, REST APIs**  
 - 📫 Reach me: **[kiarash.delavar@gmail.com](mailto:kiarash.delavar@gmail.com)**  
