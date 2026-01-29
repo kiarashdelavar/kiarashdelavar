@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 ICT & Software Engineering student at **Saxion University of Applied Sciences**  
-- 🔭 Currently working on: **Novara Website**  
+- 🔭 Currently working on: **Novara Website & GoFA robot arm**  
 - 🌱 Learning more about **Full-Stack Development, Software engineering, Distributed Systems, and AI**  
 - 🤝 I’m open to collaborating on **open-source projects & internships**  
 - 💬 Ask me about: **Java, JavaScript, Svelte, Node.js, Express, REST APIs**  
