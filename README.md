@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiarash Delavar</h1>
-<h3 align="center">💻 Software Engineering Student | 🌍 Based in the Netherlands | 🚀 Passionate About Software & Java Development</h3>
+<h3 align="center">💻 Software Engineering Student | 🌍 Based in the Netherlands | 🚀 Passionate About Software Development & Robotics  </h3>
 
 ---
 
