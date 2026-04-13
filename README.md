@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+##  About Me
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,html,css,postgres,git,github,linux,vscode,svelte,react,python&theme=dark&perline=7" />
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://www.linkedin.com/in/kiarash-delavar-b1a542289/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="52" />
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <img src="https://streak-stats.demolab.com?user=kiarashdelavar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-## ⚡ Activity Graph
+##  Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiarashdelavar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-## 💬 Quote I Live By
+##  Quote I Live By
 
 </div>
 
