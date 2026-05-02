@@ -41,12 +41,7 @@
   <li>⚡ Fun fact: I enjoy problem-solving, teamwork, and coffee-powered late night coding</li>
 </ul>
 
-</td>
-<td width="42%" valign="middle" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiarashdelavar&theme=tokyonight" width="100%" alt="Profile Summary" />
-
-</td>
   </tr>
 </table>
 
