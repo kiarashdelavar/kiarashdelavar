@@ -230,7 +230,7 @@ Java railway route planner using custom data structures and graph algorithms for
 
 <img src="https://raw.githubusercontent.com/kiarashdelavar/kiarashdelavar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-</div>
+</div> 
 
 ---
 
