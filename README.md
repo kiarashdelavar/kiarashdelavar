@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm Kiarash Delavar</h1>
+<h1>Hi 👋</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=93C5FD&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+at+Saxion;Robotics+Intern+at+SMART+Research+Group;Building+with+ROS2%2C+MoveIt2%2C+AI+%26+Computer+Vision;Full-Stack+Developer+%7C+Next.js+%7C+Svelte+%7C+Node.js;Open+to+Internships%2C+Student+Jobs+%26+Open-Source" alt="Typing SVG" />
 
