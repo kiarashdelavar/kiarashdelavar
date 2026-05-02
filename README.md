@@ -23,25 +23,55 @@
 
 <div align="center">
 
-##  About Me
-
-</div>
+## About Me
 
 <table align="center" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
+
+<p>
+I’m <b>Kiarash Delavar</b>, a <b>Software Engineering student at Saxion University of Applied Sciences</b> and a <b>Robotics Intern at the SMART Research Group</b>.
+I enjoy building practical and reliable systems where software meets real-world impact.
+</p>
+
+<p>
+Right now, I’m working across <b>robotics</b>, <b>computer vision</b>, <b>AI-driven products</b>, and <b>full-stack development</b>.  
+I like turning complex ideas into clean, testable, and useful solutions.
+</p>
 
 <ul>
-  <li>🎓 ICT &amp; Software Engineering student at <b>Saxion University of Applied Sciences</b></li>
-  <li>🔭 Currently working on: <b>Novara Website, GoFA robot arm, Pose Estimation project</b></li>
-  <li>🌱 Learning more about <b>Full-Stack Development, Software engineering, Distributed Systems, and AI</b></li>
-  <li>🤝 I’m open to collaborating on <b>open-source projects &amp; internships</b></li>
-  <li>💬 Ask me about: <b>Java, JavaScript, Svelte, Node.js, Express, REST APIs</b></li>
-  <li>📫 Reach me: <a href="mailto:kiarash.delavar@gmail.com"><b>kiarash.delavar@gmail.com</b></a></li>
-  <li>⚡ Fun fact: I enjoy problem-solving, teamwork, and coffee-powered late night coding</li>
+  <li><b>Currently working on:</b> Novara (AI-powered SaaS platform), GoFa robot motion safety, and a pose estimation project for sprint start analysis</li>
+  <li><b>Main interests:</b> Software Engineering, Robotics, Computer Vision, AI, Full-Stack Development, and Distributed Systems</li>
+  <li><b>Tech I enjoy using:</b> Java, JavaScript/TypeScript, Python, C++, Svelte, Next.js, Node.js, Express, ROS2, MoveIt2, Docker</li>
+  <li><b>What I value:</b> building real systems, teamwork, problem-solving, and continuous learning</li>
+  <li><b>Open to:</b> internships, student jobs, part-time roles, and open-source collaboration</li>
+  <li><b>Contact:</b> <a href="mailto:kiarash.delavar@gmail.com"><b>kiarash.delavar@gmail.com</b></a></li>
 </ul>
 
+  </td>
 
+  <td width="40%" valign="top" align="center">
+
+### Current Focus
+
+<img src="https://img.shields.io/badge/Robotics-ROS2%20%7C%20MoveIt2%20%7C%20C%2B%2B-0f766e?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Pose%20Estimation%20%7C%20MMPose-1d4ed8?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Full%20Stack-Next.js%20%7C%20Svelte%20%7C%20Node.js-7c3aed?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/AI%20%26%20MLOps-Docker%20%7C%20FastAPI%20%7C%20Data%20Pipelines-f59e0b?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Part--Time%20Roles-16a34a?style=for-the-badge" />
+
+<br/><br/>
+
+### Focus Areas
+
+<table align="center">
+  <tr><td>Robotics & Motion Safety</td><td><b>█████████░</b></td></tr>
+  <tr><td>Computer Vision</td><td><b>████████░░</b></td></tr>
+  <tr><td>Full-Stack Development</td><td><b>█████████░</b></td></tr>
+  <tr><td>AI / Data-Driven Systems</td><td><b>███████░░░</b></td></tr>
+</table>
+
+  </td>
   </tr>
 </table>
 
