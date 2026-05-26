@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Kiarash%20Delavar&fontSize=52&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Robotics%20Intern%20%7C%20Full-Stack%20Developer&descAlignY=63&fontColor=ffffff&descColor=e2e8f0&animation=fadeIn&color=0:020617,30:0f172a,65:1d4ed8,100:60a5fa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Kiarash%20Delavar&fontSize=52&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Robotics%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=63&fontColor=ffffff&descColor=e2e8f0&animation=fadeIn&color=0:020617,30:0f172a,65:1d4ed8,100:60a5fa" width="100%" />
 
 </div>
 
@@ -8,13 +8,13 @@
 
 <h1>Hi 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=93C5FD&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+at+Saxion;Robotics+Intern+at+SMART+Research+Group;Building+with+ROS2%2C+MoveIt2%2C+AI+%26+Computer+Vision;Full-Stack+Developer+%7C+Next.js+%7C+Svelte+%7C+Node.js;Open+to+Internships%2C+Student+Jobs+%26+Open-Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=93C5FD&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+at+Saxion;Robotics+Intern+at+SMART+Research+Group;Building+with+ROS2%2C+MoveIt2%2C+AI+%26+Computer+Vision;Full-Stack+Developer+%7C+Next.js+%7C+Svelte+%7C+Node.js;Open+to+Full-Time%2C+Part-Time+Roles+%26+Open-Source" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=kiarashdelavar&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/kiarashdelavar?style=for-the-badge&color=1d4ed8&labelColor=111827&logo=github&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Part--Time%20Roles-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open to internships and part-time roles" />
+<img src="https://img.shields.io/badge/Open%20To-Full--Time%20%26%20Part--Time%20Roles-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open to full-time and part-time roles" />
 <img src="https://img.shields.io/badge/Based%20In-The%20Netherlands-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in the Netherlands" />
 
 </div>
@@ -49,7 +49,7 @@ Current Focus
 └── Full-Stack products with Next.js, Svelte, Node.js, Express and Supabase
 ```
 
-I’m open to **internships**, **student jobs**, **part-time software roles**, and **open-source collaboration**.
+I’m open to **full-time software engineering roles**, **part-time software roles**, and **open-source collaboration**.
 
   </td>
 
@@ -103,7 +103,7 @@ AI-powered SaaS platform for freelancers and SMEs to manage tasks, invoices, and
 <br/>
 
 ### GoFa Robot Motion Safety  
-Robotics internship project focused on improving safe robot behavior using ROS2, MoveIt2, C++, real-time logs, and trajectory validation.
+Robotics engineering project focused on improving safe robot behavior using ROS2, MoveIt2, C++, real-time logs, and trajectory validation.
 
 `ROS2` `MoveIt2` `C++` `RViz` `EGM`
 
