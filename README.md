@@ -67,5 +67,5 @@
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400" alt="Javier Escuella quote and RDR scene" />
   <br>
-  <p><i>Always building, always learning, always moving forward... even when an unexpected bug ambushes me like an O'Driscoll.</i></p>
+  <p><i>Always building, always learning, always moving forward... even when an unexpected bug ambushes me like an O'Driscoll (referred to RDR2).</i></p>
 </div>
