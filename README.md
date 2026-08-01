@@ -107,7 +107,7 @@ Because remembering every task at 2:00 a.m. is not a good business plan.
 <img src="https://img.shields.io/badge/MMPose-7C3AED?style=for-the-badge" alt="MMPose" />
 <img src="https://img.shields.io/badge/MediaPipe-0F766E?style=for-the-badge" alt="MediaPipe" />
 
-### Tools for StreetPulse NL
+### Tools for StreetSherlock
 
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
