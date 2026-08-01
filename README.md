@@ -29,22 +29,25 @@ My background is a mix of **full-stack development, robotics, computer vision, a
 - 👁️ I built a computer-vision tool to study the starts of track cyclists.
 - 🌐 I build full-stack apps with modern frontend, backend, database, and testing tools.
 - 💻 I also have experience with **PHP and Laravel** backend development.
-- 🏙️ I am now building **StreetPulse NL**, an AI platform for Dutch municipalities.
+- 🏙️ I am now building **StreetSherlock**, an AI platform for Dutch municipalities.
 - 🐛 I spend a lot of time debugging. Sometimes the bug wins round one. It never wins the match.
 
 ## 🚀 Featured Projects
 
-### 🏙️ StreetPulse NL — Smart City Support *(In Development)*
+### 🕵️ StreetSherlock — AI for Smarter Streets *(In Development)*
 
-I am building **StreetPulse NL** for Dutch municipalities. It brings citizen reports, weather data, map data, and city data together in one system.
+I am building **StreetSherlock**, a smart-city platform for the Netherlands. It combines **StreetPulse** and **InfraProof AI** to help cities understand street problems and review repair work.
 
-- It finds reports about the same problem and joins them into one **incident**.
-- It helps city staff choose a priority and shows the reason.
-- It finds areas that may have problems but very few reports.
-- It removes private information from text and images.
-- A human makes the final decision. The AI is smart, but it does not get the keys to city hall.
+* It combines reports, maps, weather, and infrastructure data.
+* It groups similar reports into one incident.
+* It connects new problems with previous repair work.
+* It uses computer vision to check before-and-after images.
+* It helps city staff understand priorities and possible risks.
+* It protects private information in text and images.
+* AI gives support, but a human always makes the final decision. Sherlock finds the clues; city staff solve the case.
 
-`Vue 3` `TypeScript` `Go` `PostgreSQL` `PostGIS` `pgvector` `Redis` `Ollama` `n8n` `Docker`
+`Vue 3` `TypeScript` `Go` `Python` `FastAPI` `PostgreSQL` `PostGIS` `OpenCV` `PyTorch` `Ollama` `n8n` `Docker`
+
 
 ### 🤖 GoFa Robot Motion Safety
 
