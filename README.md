@@ -46,7 +46,7 @@ I am building **StreetSherlock**, a smart-city platform for the Netherlands. It 
 * It protects private information in text and images.
 * AI gives support, but a human always makes the final decision. Sherlock finds the clues; city staff solve the case.
 
-`Vue 3` `TypeScript` `Go` `Python` `FastAPI` `PostgreSQL` `PostGIS` `OpenCV` `PyTorch` `Ollama` `n8n` `Docker`
+`REACT/Next.js` `TypeScript` `Spring boot` `Python` `FastAPI` `PostgreSQL` `PostGIS` `OpenCV` `PyTorch` `Ollama` `n8n` `Docker`
 
 
 ### 🤖 GoFa Robot Motion Safety
