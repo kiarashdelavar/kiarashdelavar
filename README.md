@@ -20,10 +20,22 @@ I enjoy working on real-world technical problems, from full-stack applications t
 
 Currently working on software projects involving **automation, intelligent systems, and scalable web applications**.
 
+---
+
+<div align="center">
+
+## “You're as young as your dreams, not as old as your calendar.”
+
+**— Shimon Peres**
+
+</div>
+
+---
+
 ### Tech
 
-`Java` `TypeScript` `Python` `C++` `PHP`
-`React` `Next.js` `Spring Boot` `FastAPI` `Laravel`
+`Java` `TypeScript` `Python` `C++` `PHP`  
+`React` `Next.js` `Spring Boot` `FastAPI` `Laravel`  
 `PostgreSQL` `Docker` `Git` `ROS 2`
 
 ---
