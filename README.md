@@ -26,7 +26,7 @@ Currently working on software projects involving **automation, intelligent syste
 
 ## “You're as young as your dreams, not as old as your calendar.”
 
-**— Shimon Peres**
+** Shimon Peres**
 
 </div>
 
