@@ -23,21 +23,21 @@ My main interest is **backend engineering**: APIs, databases, business logic, sy
 
 ## What I'm working on
 
-- **[Print.com](https://www.print.com/)** — Developing Digital Proof backend features with TypeScript, Node.js, AWS Lambda, MySQL, and Go rule-engine logic.
-- **Esports Team Twente** — Building Python/FastAPI services for player statistics and match data, with a React dashboard.
-- **Saxion Sustainable Energy Systems** — Working on an educational microgrid simulator built around DEMKit.
+- **[Print.com](https://www.print.com/)** - Developing Digital Proof backend features with TypeScript, Node.js, AWS Lambda, MySQL, and Go rule-engine logic.
+- **Esports Team Twente** - Building Python/FastAPI services for player statistics and match data, with a React dashboard.
+- **Saxion Sustainable Energy Systems** - Working on an educational microgrid simulator built around DEMKit.
 
 ## Selected projects
 
-- **[DEMKit Microgrid Simulator](https://github.com/kiarashdelavar/demkit-microgrid-simulator)** — Improving the setup and interface of a tool that lets students explore solar power, batteries, electric vehicles, and local electricity grids.
+- **[DEMKit Microgrid Simulator](https://github.com/kiarashdelavar/demkit-microgrid-simulator)** - Improving the setup and interface of a tool that lets students explore solar power, batteries, electric vehicles, and local electricity grids.
 
-- **[IoT Telemetry Platform](https://github.com/kiarashdelavar/iot-telemetry-platform)** — A FastAPI and PostgreSQL backend for sample telemetry data, with a Next.js dashboard and Docker configuration.
+- **[IoT Telemetry Platform](https://github.com/kiarashdelavar/iot-telemetry-platform)** - A FastAPI and PostgreSQL backend for sample telemetry data, with a Next.js dashboard and Docker configuration.
 
-- **[Conference Room Booking with RabbitMQ](https://github.com/kiarashdelavar/ConferenceRent-RabbitMQ)** — A Java project where clients, booking agents, and buildings communicate through RabbitMQ.
+- **[Conference Room Booking with RabbitMQ](https://github.com/kiarashdelavar/ConferenceRent-RabbitMQ)** - A Java project where clients, booking agents, and buildings communicate through RabbitMQ.
 
-- **[Frog Autonomous Navigation System](https://github.com/kiarashdelavar/Frog-Autonomous-Navigation-System)** — A Java simulation that uses radar data to navigate around obstacles and SQLite to store mission data.
+- **[Frog Autonomous Navigation System](https://github.com/kiarashdelavar/Frog-Autonomous-Navigation-System)** - A Java simulation that uses radar data to navigate around obstacles and SQLite to store mission data.
 
-- **Cycling Start Analysis for NOC*NSF** — A Python, MediaPipe, and PySide6 desktop application for reviewing cyclists' starts. Built for Windows and macOS. [Read what I learned](https://www.linkedin.com/pulse/hard-part-wasnt-computer-vision-building-tool-coaches-kiarash-delavar-sy94e/).
+- **Cycling Start Analysis for NOC*NSF** - A Python, MediaPipe, and PySide6 desktop application for reviewing cyclists' starts. Built for Windows and macOS. [Read what I learned](https://www.linkedin.com/pulse/hard-part-wasnt-computer-vision-building-tool-coaches-kiarash-delavar-sy94e/).
 
 ## Tech I work with
 
