@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Kiarash Delavar
@@ -8,6 +7,10 @@
 Software Engineering Intern at [Print.com](https://www.print.com/) · Studying at Saxion University of Applied Sciences
 
 I enjoy building backend services, working with data, and understanding how systems work behind the scenes.
+
+![Backend Engineering](https://img.shields.io/badge/Focus-Backend%20Engineering-334155?style=flat-square)
+![Cloud & Systems](https://img.shields.io/badge/Interest-Cloud%20%26%20Systems-475569?style=flat-square)
+![Building Real Projects](https://img.shields.io/badge/Work-Real--world%20Projects-0F766E?style=flat-square)
 
 [Portfolio](https://www.kiarashdelavar.com/) · [LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) · [LeetCode](https://leetcode.com/u/KiarashDelavar/) · [Email](mailto:kiarash.delavar@gmail.com)
 
@@ -39,16 +42,21 @@ My main interest is **backend engineering**: APIs, databases, business logic, sy
 
 - **Cycling Start Analysis for NOC*NSF** - A Python, MediaPipe, and PySide6 desktop application for reviewing cyclists' starts. Built for Windows and macOS. [Read what I learned](https://www.linkedin.com/pulse/hard-part-wasnt-computer-vision-building-tool-coaches-kiarash-delavar-sy94e/).
 
+### Upcoming challenge
+
+**[ProRail Data Challenge 2026](https://www.prorail.nl/evenementen-overzicht/data-challenge-2026)** · November–December 2026  
+A data challenge focused on sensor readings, incident reports, and technical installations in the Best railway tunnel. The goal is to find patterns and early warning signals that could support more proactive maintenance.
+
 ## Tech I work with
 
 | Area | Technologies |
 | --- | --- |
-| Languages | `TypeScript` `JavaScript` `Python` `Go` `Java` `C++` `SQL` |
-| Backend | `Node.js` `FastAPI` `Spring Boot` `REST APIs` `TypeORM` `RabbitMQ` |
-| Data | `MySQL` `PostgreSQL` `DynamoDB` `SQLite` |
-| Cloud & tools | `AWS Lambda` `Amazon S3` `Docker` `Git` `GitHub Actions` `Jest` `Postman` |
-| Frontend | `React` `Next.js` |
-| Research | `MediaPipe` `Computer Vision` `ROS 2` `MoveIt 2` |
+| **Languages** | `TypeScript` `JavaScript` `Python` `Go` `Java` `C++` `SQL` |
+| **Backend** | `Node.js` `FastAPI` `Spring Boot` `REST APIs` `TypeORM` `RabbitMQ` |
+| **Data** | `MySQL` `PostgreSQL` `DynamoDB` `SQLite` |
+| **Cloud & tools** | `AWS Lambda` `Amazon S3` `Docker` `Git` `GitHub Actions` `Jest` `Postman` |
+| **Frontend** | `React` `Next.js` |
+| **Research** | `MediaPipe` `Computer Vision` `ROS 2` `MoveIt 2` |
 
 ## Opportunities
 
