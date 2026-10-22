@@ -1,91 +1,57 @@
+
 <div align="center">
 
 # Kiarash Delavar
 
-### Software Engineering Student · Backend-Focused Developer
+**Software Engineering Student · Backend-Focused Developer**
 
-Software Engineering Intern at **Print.com**  
-Interested in **backend engineering, APIs, databases, system design, and cloud-based software**
+Software Engineering Intern at [Print.com](https://www.print.com/) · Studying at Saxion University of Applied Sciences
 
-[LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) ·
-[Portfolio](https://www.kiarashdelavar.com/) ·
-[Email](mailto:kiarash.delavar@gmail.com)
+I enjoy building backend services, working with data, and understanding how systems work behind the scenes.
+
+[Portfolio](https://www.kiarashdelavar.com/) · [LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) · [LeetCode](https://leetcode.com/u/KiarashDelavar/) · [Email](mailto:kiarash.delavar@gmail.com)
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm a third-year **Software Engineering student at Saxion University of Applied Sciences** in the Netherlands and currently a **Software Engineering Intern at Print.com**.
+I'm a third-year Software Engineering student at Saxion in the Netherlands. At Print.com, I work with a development team on **Digital Proof**, a feature that helps manage proof files and customer approval before print production.
 
-I enjoy understanding how software works behind the scenes - how services communicate, how data moves through a system, and how backend logic turns requirements into reliable software.
+My main interest is **backend engineering**: APIs, databases, business logic, system design, and cloud services. I also like building tools for real users. For example, I developed a computer vision desktop app for cycling research with NOC*NSF and used feedback from sports experts to improve it.
 
-My main interest is **backend software engineering**, particularly:
+## What I'm working on
 
-- API and service development
-- Databases and data modelling
-- Business logic and system integration
-- Cloud and serverless applications
-- Software architecture and system design
-- Testing, maintainability, and reliable software
+- **[Print.com](https://www.print.com/)** — Developing Digital Proof backend features with TypeScript, Node.js, AWS Lambda, MySQL, and Go rule-engine logic.
+- **Esports Team Twente** — Building Python/FastAPI services for player statistics and match data, with a React dashboard.
+- **Saxion Sustainable Energy Systems** — Working on an educational microgrid simulator built around DEMKit.
 
-Alongside backend development, I have also worked on projects involving **AI, computer vision, robotics, and full-stack applications**.
+## Selected projects
 
----
+- **[DEMKit Microgrid Simulator](https://github.com/kiarashdelavar/demkit-microgrid-simulator)** — Improving the setup and interface of a tool that lets students explore solar power, batteries, electric vehicles, and local electricity grids.
 
-## Current Focus
+- **[IoT Telemetry Platform](https://github.com/kiarashdelavar/iot-telemetry-platform)** — A FastAPI and PostgreSQL backend for sample telemetry data, with a Next.js dashboard and Docker configuration.
 
-- Building software in a professional development environment at **Print.com**
-- Improving my backend and system design skills
-- Learning more about cloud architecture and distributed systems
-- Working with APIs, databases, and production-oriented software
-- Writing cleaner, maintainable, and testable code
+- **[Conference Room Booking with RabbitMQ](https://github.com/kiarashdelavar/ConferenceRent-RabbitMQ)** — A Java project where clients, booking agents, and buildings communicate through RabbitMQ.
 
----
+- **[Frog Autonomous Navigation System](https://github.com/kiarashdelavar/Frog-Autonomous-Navigation-System)** — A Java simulation that uses radar data to navigate around obstacles and SQLite to store mission data.
 
-## Tech
+- **Cycling Start Analysis for NOC*NSF** — A Python, MediaPipe, and PySide6 desktop application for reviewing cyclists' starts. Built for Windows and macOS. [Read what I learned](https://www.linkedin.com/pulse/hard-part-wasnt-computer-vision-building-tool-coaches-kiarash-delavar-sy94e/).
 
-### Languages
+## Tech I work with
 
-`Java` `TypeScript` `Python` `PHP` `C++`
+| Area | Technologies |
+| --- | --- |
+| Languages | `TypeScript` `JavaScript` `Python` `Go` `Java` `C++` `SQL` |
+| Backend | `Node.js` `FastAPI` `Spring Boot` `REST APIs` `TypeORM` `RabbitMQ` |
+| Data | `MySQL` `PostgreSQL` `DynamoDB` `SQLite` |
+| Cloud & tools | `AWS Lambda` `Amazon S3` `Docker` `Git` `GitHub Actions` `Jest` `Postman` |
+| Frontend | `React` `Next.js` |
+| Research | `MediaPipe` `Computer Vision` `ROS 2` `MoveIt 2` |
 
-### Backend & Web
+## Opportunities
 
-`Node.js` `Spring Boot` `FastAPI`  `REST APIs`
+I'm interested in **full-time Junior Software Engineer** roles, especially backend development. I'm also open to **part-time student developer** positions and **Software Engineering internships starting in February 2027**.
 
-### Frontend
-
-`React` `Next.js` `Vue.js` `Nuxt 3`
-
-### Data & Cloud
-
-`PostgreSQL` `MySQL` `AWS Lambda` `Amazon S3` `DynamoDB`
-
-### Tools
-
-`Git` `Docker` `Postman` `GitHub Actions` `GitLab` `Linux`
-
-### Other
-
-`Computer Vision` `MediaPipe` `ROS 2`
-
----
-
-## What I'm Looking For
-
-I'm currently exploring **Junior Software Engineer opportunities**, preferably with a strong **backend** focus.
-
-I'm also open to a **Software Engineering internship starting in February 2027**, particularly in backend, platform, cloud, or systems-oriented development.
-
----
-
-## Let's Connect
-
-I'm always interested in connecting with software engineers, engineering managers, and teams working on interesting technical problems.
-
-You can reach me through:
-
-[LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) ·
-[Portfolio](https://www.kiarashdelavar.com/) ·
-[Email](mailto:kiarash.delavar@gmail.com)
+You can see more of my work on my [portfolio](https://www.kiarashdelavar.com/) or contact me on [LinkedIn](https://www.linkedin.com/in/kiarash-delavar/).
