@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/backend-profile-banner.svg" alt="Kiarash Delavar — Backend development, APIs and cloud systems" width="100%" />
+<img src="./assets/backend-profile-banner.svg" alt="Kiarash Delavar - Backend development, APIs and cloud systems" width="100%" />
 
 **Software Engineering Student · Backend Developer**
 
@@ -73,7 +73,7 @@ Alongside my internship, I'm building **Python/FastAPI services and a React dash
 </tr>
 </table>
 
-**Also built with a team:** [Frog Autonomous Navigation System](https://github.com/kiarashdelavar/Frog-Autonomous-Navigation-System) — a Java application that uses radar input to guide a simulated robot around obstacles and records mission data in SQLite.
+**Also built with a team:** [Frog Autonomous Navigation System](https://github.com/kiarashdelavar/Frog-Autonomous-Navigation-System) - a Java application that uses radar input to guide a simulated robot around obstacles and records mission data in SQLite.
 
 ## Tech I work with
 
@@ -94,12 +94,12 @@ My current work centres on **TypeScript, Python, backend APIs, SQL, and AWS**.
 | Language | Level |
 | :--- | :--- |
 | **Persian / فارسی** | Native |
-| **English** | C1 — Advanced |
-| **Dutch / Nederlands** | B1 — Intermediate; still learning Dutch |
+| **English** | C1 - Advanced |
+| **Dutch / Nederlands** | B1 - Intermediate; still learning Dutch |
 
 ## Beyond the code
 
-Registered for the **[ProRail Data Challenge 2026](https://www.prorail.nl/evenementen-overzicht/data-challenge-2026)** · **4 November–2 December 2026**. The challenge explores sensor and incident data from the Best railway tunnel to identify patterns that could support proactive maintenance.
+Registered for the **[ProRail Data Challenge 2026](https://www.prorail.nl/evenementen-overzicht/data-challenge-2026)** · **4 November - 2 December 2026**. The challenge explores sensor and incident data from the Best railway tunnel to identify patterns that could support proactive maintenance.
 
 ## Let's talk
 
