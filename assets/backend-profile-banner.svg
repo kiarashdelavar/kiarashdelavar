@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kiarash Delavar — Backend development</title>
+  <desc id="desc">A dark navy and mint engineering banner. Backend development, APIs, data and cloud systems. Deventer, Netherlands.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#122D36"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A5F3FC" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <path d="M0 296H1200" stroke="url(#line)" stroke-width="8"/>
+    <circle cx="1140" cy="28" r="218" fill="none" stroke="#5EEAD4" stroke-opacity=".08"/>
+    <circle cx="1140" cy="28" r="172" fill="none" stroke="#5EEAD4" stroke-opacity=".08"/>
+    <g font-family="DejaVu Sans, Arial, sans-serif">
+      <text x="54" y="55" fill="#5EEAD4" font-size="13" letter-spacing="3" font-weight="700">SOFTWARE ENGINEERING / DEVENTER, NL</text>
+      <text x="50" y="122" fill="#F0F6FC" font-size="52" font-weight="700" letter-spacing="-2">KIARASH DELAVAR</text>
+      <text x="54" y="169" fill="#D7E5EB" font-size="27" font-weight="400">Backend development.</text>
+      <text x="54" y="207" fill="#8FB5C3" font-size="27" font-weight="400">APIs, data &amp; cloud systems.</text>
+      <rect x="54" y="242" width="34" height="3" rx="1.5" fill="#5EEAD4"/>
+      <text x="103" y="249" fill="#C1D3DB" font-size="14" letter-spacing=".5">kiarashdelavar.com</text>
+    </g>
+    <g transform="translate(712 48)">
+      <rect width="432" height="204" rx="12" fill="#0A1522" stroke="#35505E"/>
+      <path d="M0 36H432" stroke="#293C4B"/>
+      <circle cx="20" cy="18" r="4" fill="#5EEAD4"/>
+      <circle cx="35" cy="18" r="4" fill="#477D88"/>
+      <circle cx="50" cy="18" r="4" fill="#315563"/>
+      <text x="82" y="23" fill="#97AFBD" font-size="12" font-family="DejaVu Sans Mono, monospace">~/kiarash / profile.ts</text>
+      <g font-family="DejaVu Sans Mono, monospace" font-size="16" xml:space="preserve">
+        <text x="24" y="72"><tspan fill="#C4B5FD">const </tspan><tspan fill="#E2E8F0">developer = {</tspan></text>
+        <text x="45" y="103"><tspan fill="#91B5C5">  focus: </tspan><tspan fill="#5EEAD4">"backend"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+        <text x="45" y="134"><tspan fill="#91B5C5">  building: </tspan><tspan fill="#5EEAD4">"Digital Proof"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+        <text x="45" y="165"><tspan fill="#91B5C5">  team: </tspan><tspan fill="#5EEAD4">"Print.com / Bricks"</tspan></text>
+        <text x="24" y="191" fill="#E2E8F0">};</text>
+      </g>
+    </g>
+  </g>
+</svg>
