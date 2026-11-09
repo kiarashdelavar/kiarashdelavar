@@ -34,7 +34,19 @@ Developing the workflow for reviewing and approving proof files before print pro
 
 `TypeScript` `Node.js` `AWS Lambda` `Amazon S3` `MySQL` `Go`
 
-Alongside my internship, I'm building **Python/FastAPI services and a React dashboard for Esports Team Twente**, and improving an educational microgrid simulator with **Saxion Sustainable Energy Systems**.
+### Track Cycling Start Analysis · Saxion / NOC*NSF research
+**Computer Vision & Software Developer · Sports performance analysis**
+
+Developing a coach-oriented desktop application that turns track-cycling video into motion and start-performance analysis:
+
+- **Built:** a Python desktop application with pose estimation, joint-angle visualizations, and Windows/macOS builds.
+- **Improving:** frame-by-frame tracking, recording quality, session storage, and reproducible data exports.
+- **Research ahead:** working with academic partners to evaluate how camera position affects pose estimates and validate speed calculated from tracked motion and wheel rotation against independent reference measurements.
+- **Software roadmap:** camera input and calibration, bicycle metadata, key performance metrics, and clear graphs for coaches.
+
+`Python` `MMPose` `OpenCV` `PySide6` `Computer vision`
+
+Alongside these projects, I'm building **Python/FastAPI services and a React dashboard for Esports Team Twente**, and improving an educational microgrid simulator with **Saxion Sustainable Energy Systems**.
 
 ## Selected projects
 
@@ -48,10 +60,10 @@ Alongside my internship, I'm building **Python/FastAPI services and a React dash
 <p><a href="https://github.com/kiarashdelavar/demkit-microgrid-simulator"><strong>Explore the repository →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 · Cycling Start Analysis</h3>
-<p><strong>Turning athlete video into a tool coaches can review.</strong></p>
-<p>Developed a desktop prototype for NOC*NSF cycling research using pose estimation and visual analysis. Built Windows and macOS versions and used feedback from sports experts to improve the workflow.</p>
-<p><code>Python</code> <code>Pose estimation</code> <code>PySide6</code></p>
+<h3>02 · Track Cycling Start Analysis</h3>
+<p><strong>Turning cyclist video into useful measurements for coaches.</strong></p>
+<p>Built a Windows/macOS desktop application for track-cycling research with pose estimation and joint-angle analysis. Continuing work on robust tracking and saved-session workflows, with upcoming camera-position and video-based speed validation studies.</p>
+<p><code>Python</code> <code>MMPose</code> <code>OpenCV</code> <code>PySide6</code></p>
 <p><a href="https://www.linkedin.com/pulse/hard-part-wasnt-computer-vision-building-tool-coaches-kiarash-delavar-sy94e/"><strong>Read the project story →</strong></a></p>
 </td>
 </tr>
