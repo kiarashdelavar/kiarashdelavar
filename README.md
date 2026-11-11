@@ -35,16 +35,43 @@ Developing the workflow for reviewing and approving proof files before print pro
 `TypeScript` `Node.js` `AWS Lambda` `Amazon S3` `MySQL` `Go`
 
 ### Track Cycling Start Analysis · Saxion / NOC*NSF research
-**Computer Vision & Software Developer · Sports performance analysis**
+**Computer Vision & Software Developer · Sports Biomechanics & Performance Analysis**
 
-Developing a coach-oriented desktop application that turns track-cycling video into motion and start-performance analysis:
+Developing a Python desktop application that transforms track-cycling videos into measurable biomechanics and sprint-start performance data. The goal is to give researchers and coaches useful information about rider posture, movement, and acceleration through **pose estimation, cyclist tracking, joint-angle calculations, and synchronized video analysis**.
 
-- **Built:** a Python desktop application with pose estimation, joint-angle visualizations, and Windows/macOS builds.
-- **Improving:** frame-by-frame tracking, recording quality, session storage, and reproducible data exports.
-- **Research ahead:** working with academic partners to evaluate how camera position affects pose estimates and validate speed calculated from tracked motion and wheel rotation against independent reference measurements.
-- **Software roadmap:** camera input and calibration, bicycle metadata, key performance metrics, and clear graphs for coaches.
+The project combines computer vision, tracking algorithms, scientific data processing, and cross-platform desktop software.
 
-`Python` `MMPose` `OpenCV` `PySide6` `Computer vision`
+**Implemented so far**
+
+- **Pose estimation and biomechanics:** Built video-analysis pipelines using MMPose and OpenCV to extract cyclist landmarks, calculate joint angles, and display skeleton overlays.
+- **Start-performance metrics:** Developed plots for pelvis movement, velocity, acceleration, joint angles, and measurements aligned with events such as the starting gun.
+- **Cyclist tracking:** Implemented rider tracking and investigated multi-person approaches such as BoT-SORT and person re-identification (Re-ID) to address identity switching when cyclists overlap or leave the frame.
+- **Desktop application:** Created a PySide6 interface with video playback, pose overlays, interactive Plotly graphs, analysis results, and quality-check views.
+- **Persistent research sessions:** Added local SQLite storage with unique session IDs, frame timestamps, tracking states, detected landmarks, confidence data, and save/reopen support.
+- **Research exports:** Implemented CSV, XLSX, PDF, dataset-folder, and ZIP exports for further analysis and data sharing.
+- **Desktop distribution:** Produced Windows and macOS builds to let researchers use the application without setting up a Python development environment.
+
+**Current engineering improvements**
+
+- Strengthening primary-rider identity locking so pose tracking does not jump to another cyclist when the target exits the camera view.
+- Moving toward frame-by-frame analysis across the entire video, with explicit tracking states for frames where no reliable pose is available.
+- Evaluating selectable pose-estimation models, balancing fast exploratory processing against higher-accuracy research analysis.
+- Improving velocity and acceleration handling, confidence-aware visualizations, and consistency between application charts and exported reports.
+- Developing wheel-size and pixel-to-real-world calibration methods for physically meaningful speed estimates.
+- Hardening session persistence, export integrity, and reproducible analysis workflows.
+
+**Upcoming camera research and development**
+
+- **Live camera capture:** Explore webcam and USB-camera integration with manual start/stop recording for trackside sessions.
+- **Camera placement and feedback:** Work with VU Amsterdam Human Movement Sciences students on practical camera positions, mounting, recording quality, and tripod-camera-to-TV feedback workflows.
+- **Pose validation:** Evaluate how camera position, angle, and recording conditions affect detected landmarks and calculated joint angles.
+- **Speed validation:** Compare speed inferred from tracked motion and wheel rotation with independent reference measurements; investigate wheel geometry and calibration uncertainty.
+- **Recording metadata:** Add structured camera, calibration, and bicycle information to support repeatable sessions and comparisons.
+- **Coach-oriented usability:** Refine the capture-to-analysis experience so useful sprint-start metrics and graphs can be reviewed quickly after a run.
+
+**Long-term goal:** build a reliable, validated research and coaching tool that connects video-based measurements with practical feedback for track-cycling sprint starts.
+
+`Python` `MMPose` `OpenCV` `PySide6` `Plotly` `SQLite` `Pose Estimation` `Multi-Object Tracking` `Biomechanics`
 
 Alongside these projects, I'm building **Python/FastAPI services and a React dashboard for Esports Team Twente**, and improving an educational microgrid simulator with **Saxion Sustainable Energy Systems**.
 
@@ -61,9 +88,9 @@ Alongside these projects, I'm building **Python/FastAPI services and a React das
 </td>
 <td width="50%" valign="top">
 <h3>02 · Track Cycling Start Analysis</h3>
-<p><strong>Turning cyclist video into useful measurements for coaches.</strong></p>
-<p>Built a Windows/macOS desktop application for track-cycling research with pose estimation and joint-angle analysis. Continuing work on robust tracking and saved-session workflows, with upcoming camera-position and video-based speed validation studies.</p>
-<p><code>Python</code> <code>MMPose</code> <code>OpenCV</code> <code>PySide6</code></p>
+<p><strong>Computer vision and biomechanical analysis for sprint-cycling research.</strong></p>
+<p>Developing a cross-platform Python desktop application for cyclist tracking, pose estimation, joint-angle measurements, and sprint-start analysis. Built with PySide6, MMPose, OpenCV, Plotly, and SQLite, including saved research sessions and multiple export formats. Current work focuses on tracking reliability and wheel calibration; planned studies include camera positioning, live capture, and speed validation with academic partners.</p>
+<p><code>Python</code> <code>MMPose</code> <code>OpenCV</code> <code>PySide6</code> <code>SQLite</code></p>
 <p><a href="https://www.linkedin.com/pulse/hard-part-wasnt-computer-vision-building-tool-coaches-kiarash-delavar-sy94e/"><strong>Read the project story →</strong></a></p>
 </td>
 </tr>
@@ -99,7 +126,7 @@ My current work centres on **TypeScript, Python, backend APIs, SQL, and AWS**.
 | **Cloud & delivery** | AWS Lambda · Amazon S3 · Docker · Git · GitHub Actions |
 | **Testing & API tools** | Jest · Postman |
 | **Interfaces** | React · Next.js · PySide6 |
-| **Research & robotics** | Computer vision · MediaPipe · ROS 2 · MoveIt 2 |
+| **Research & robotics** | Computer vision · MMPose · OpenCV · MediaPipe · ROS 2 · MoveIt 2 |
 
 ## Languages
 
