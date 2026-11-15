@@ -1,19 +1,8 @@
-<div align="center">
+# Hi, I'm Kiarash 👋
 
-<img src="./assets/backend-profile-banner.svg" alt="Kiarash Delavar - Backend development, APIs and cloud systems" width="100%" />
+Backend developer · Software Engineering student at Saxion · Intern at [Print.com](https://www.print.com/) · Deventer, NL
 
-**Software Engineering Student · Backend Developer**
-
-[Print.com](https://www.print.com/) intern · Saxion University of Applied Sciences · Deventer, Netherlands
-
-<a href="https://www.kiarashdelavar.com/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/kiarash-delavar/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:kiarash.delavar@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge" alt="Email Kiarash" /></a>
-<a href="https://leetcode.com/u/KiarashDelavar/"><img src="https://img.shields.io/badge/LeetCode-1E293B?style=for-the-badge&logo=leetcode&logoColor=F5B841" alt="LeetCode" /></a>
-
-[Experience](#currently-building) · [Projects](#selected-projects) · [Tech](#tech-i-work-with) · [Languages](#languages) · [Opportunities](#lets-talk)
-
-</div>
+[Portfolio](https://www.kiarashdelavar.com/) · [LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) · [Email](mailto:kiarash.delavar@gmail.com) · [LeetCode](https://leetcode.com/u/KiarashDelavar/)
 
 ---
 
