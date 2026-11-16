@@ -16,7 +16,7 @@ I'm a Software Engineering student at **Saxion** and a backend developer in the 
 - **[IoT Telemetry Platform](https://github.com/kiarashdelavar/iot-telemetry-platform):** An API and dashboard for sensor data. `FastAPI` `PostgreSQL` `Next.js`
 - **[Frog Autonomous Navigation](https://github.com/kiarashdelavar/Frog-Autonomous-Navigation-System):** A simulated robot that avoids obstacles. `Java` `SQLite`
 
-## Skills
+## Main Skills
 
 **Backend:** TypeScript, Python, Java, Node.js, FastAPI, REST APIs  
 **Data & Cloud:** MySQL, PostgreSQL, SQLite, AWS, Docker  
