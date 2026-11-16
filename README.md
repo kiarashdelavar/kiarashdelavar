@@ -28,6 +28,6 @@ Persian (native) · English (C1) · Dutch (B1, still learning)
 
 ## Let's connect
 
-I'm looking for **full-time junior software developer roles**, mainly in backend development. I'm also open to **part-time developer work** and **internships from February 2027**.
+I'm looking for **part-time developer works**.
 
 [Portfolio](https://www.kiarashdelavar.com/) · [LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) · [Email](mailto:kiarash.delavar@gmail.com)
