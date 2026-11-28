@@ -28,6 +28,6 @@ Persian (native) · English (C1) · Dutch (B1, still learning)
 
 ## Let's connect
 
-I'm looking for **part-time developer works**.
+I'm looking for **part-time & internships (Starting Feb 2027) developer works**.
 
 [Portfolio](https://www.kiarashdelavar.com/) · [LinkedIn](https://www.linkedin.com/in/kiarash-delavar/) · [Email](mailto:kiarash.delavar@gmail.com)
